@@ -113,6 +113,7 @@ Hackathon Hackers' GitHub profiles
 - Austin L. Chang https://github.com/austinlchang
 - Avijeet Sachdev https://github.com/avijeets
 - Ayush Singh https://github.com/ayush1997
+- Ayush Verma https://github.com/ayushverma8
 - Azam Abdulkadir https://github.com/AzamAbdul
 - Basil Siddiqui https://github.com/bsiddiqui
 - Batu Aytemiz https://github.com/batu
