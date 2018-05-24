@@ -90,6 +90,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Austin L. Chang http://www.austinlchang.com
 - Avijeet Sachdev http://avijeets.com
 - Ayush Singh http://ayush1997.github.io
+- Ayush Verma http://ayushverma.xyz
 - Ben Congdon http://benjamincongdon.me/
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
